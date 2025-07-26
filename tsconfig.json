@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "karmalogy-backend/src/services/prokeralaApi.ts", "karmalogy-backend/src/services/geocoding.service.ts", "karmalogy-backend/src/config/models"  ]
 }
